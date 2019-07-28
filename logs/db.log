@@ -1,0 +1,3 @@
+[07-28 22:43:33,827] DEBUG [http-nio-8080-exec-1] selectByPrimaryKey[159] - ==>  Preparing: select user_id, user_name, password, phone from user where user_id = ? 
+[07-28 22:43:33,851] DEBUG [http-nio-8080-exec-1] selectByPrimaryKey[159] - ==> Parameters: 1(Integer)
+[07-28 22:43:33,980] DEBUG [http-nio-8080-exec-1] selectByPrimaryKey[159] - <==      Total: 1
